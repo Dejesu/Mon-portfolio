@@ -1,0 +1,11 @@
+nav
+{
+    height: 100px;
+    display: flex;
+}
+nav #internal-links ul{
+    list-style-type: circle;
+}
+nav #internal-links ul{
+    text-decoration-color:yellow;
+}
